@@ -2100,7 +2100,7 @@ const Spark = {
 
 
 const soundManager = {
-    baseURL: 'http://love.icxac.com/yh/static/mp3/',
+    baseURL: 'https://zxl-3306.github.io/firework/static/mp3/',
     ctx: new(window.AudioContext || window.webkitAudioContext),
     sources: {
         lift: {
